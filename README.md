@@ -1,4 +1,8 @@
-img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ADEEL%20RAJPOOT&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=ADEEL%20RAJPOOT&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CSomewhere%20between%20logic%20and%20chaos%2C%20I%20write%20code.%E2%80%9D" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=adeel771">
@@ -13,15 +17,15 @@ img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/adeel771">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adeel771&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="adeel771's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adeel771&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="adeel771's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=adeel771&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="adeel771's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=adeel771&theme=onedark&hide_border=true&cache_seconds=86400" alt="adeel771's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=adeel771&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ADEEL RAJPOOT's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=adeel771&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ADEEL RAJPOOT's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=adeel771&theme=tokyonight&radius=10" alt="adeel771's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=adeel771&theme=onedark&radius=10" alt="adeel771's Activity Graph" />
 </p>
 
 
@@ -76,17 +80,16 @@ img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000
 
 <p align="center">
   <a href="https://github.com/adeel771">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adeel771&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adeel771&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
 ![Top language](https://stats.pphat.top/languages?username=adeel771)
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
